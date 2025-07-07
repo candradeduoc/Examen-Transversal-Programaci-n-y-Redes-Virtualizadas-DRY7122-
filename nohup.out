@@ -1,0 +1,8 @@
+ * Serving Flask app "password-evolution" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5800/ (Press CTRL+C to quit)
+127.0.0.1 - - [07/Jul/2025 22:37:10] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [07/Jul/2025 22:37:44] "[37mPOST /login/v2 HTTP/1.1[0m" 200 -
